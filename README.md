@@ -5,7 +5,8 @@ clone/download code from https://github.com/skc-garimella/hackerearth-springboar
 
 run the below commands:
   > npm install
-  > node server.js
+
+   node server.js
 
 
 
