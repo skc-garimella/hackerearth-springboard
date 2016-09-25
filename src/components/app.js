@@ -12,7 +12,7 @@ export default class App extends Component {
     return (
       <div>
         <div>
-          <nav className="navbar navbar-default">
+          <nav className="navbar navbar-custom">
             <div className="container-fluid">
               <div className="navbar-header">
                 <a className="navbar-brand" href="#">
@@ -27,7 +27,6 @@ export default class App extends Component {
           <CourseList />
           <CourseDetail />
         </div>
-
       </div>
     );
   }
