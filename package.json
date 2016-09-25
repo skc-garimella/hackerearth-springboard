@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skc-garimella/React_weatherApp.git"
+    "url": "https://github.com/skc-garimella/hackerearth-springboard.git"
   },
-  "author": "",
+  "author": "Chaitanya Garimella",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skc-garimella/React_weatherApp/issues"
+    "url": "https://github.com/skc-garimella/hackerearth-springboard/issues"
   },
-  "homepage": "https://github.com/skc-garimella/React_weatherApp#readme",
+  "homepage": "https://github.com/skc-garimella/hackerearth-springboard#readme",
   "devDependencies": {},
   "dependencies": {
     "axios": "^0.14.0",
