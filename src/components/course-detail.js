@@ -27,7 +27,11 @@ class CourseDetail extends Component {
               <em className="text-warning"><span className="glyphicon glyphicon-tags"></span> {course.tags} </em>
             </div>
             <div className="row">
-              <p className="col-sm-3"><a className="btn btn-success pull-center" role="button" href={course.sign_up} target="_blank">View Cirriculum</a></p>
+              <p className="col-sm-3">
+                <a className="btn btn-success pull-center" role="button" href={course.sign_up} target="_blank">
+                  View Curriculum
+                </a>
+              </p>
               <p className="text-right text-success col-sm-5">
                 <span className="glyphicon glyphicon-user"></span><small>{course.learner} Learners</small>
               </p>
