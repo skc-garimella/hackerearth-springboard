@@ -1,1 +1,1 @@
-weather app using React and Redux.
+Springboard Frontend Hiring Challenge.
