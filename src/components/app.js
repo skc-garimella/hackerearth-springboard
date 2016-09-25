@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router';
 import CourseList from './course_list';
 import CourseDetail from './course-detail';
 import SearchBar from './search-bar';
